@@ -1,1 +1,2 @@
-db.collectionnamme.findOne()
+db.collectionname.findOne()
+
